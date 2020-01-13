@@ -21,6 +21,8 @@
 |腹围| Waist hip |胎心| Fetal heart |
 |胎心率| Fetal heart rate （fhr）
 |身高| Height |体重| Weight |
+|孕前体重|pre_weight|当前体重|current_weight
+|体重增加|weight_gain|
 | BMI | Body mass index |胎方位| Fetal position |
 |血型| Blood type |先露| Presentation |
 |脉搏| pulse |筛查| Screening |
