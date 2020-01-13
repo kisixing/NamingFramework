@@ -26,8 +26,8 @@
 | BMI | Body mass index |胎方位| Fetal position |
 |血型| Blood type |先露| Presentation |
 |脉搏| pulse |筛查| Screening |
-|病史| Medical history |既往史| Past medical history
-|家族史| family history |
+|病史| Medical history |现病史| HPI（history of present illness）|
+|既往史| Past medical history |家族史| family history |
 |月经史| Menstrual history |生孕史（孕产史）| Pregnancy History |
 |衔接| engagement |初产| primiparity |
 |经产| Multiparity |单双胎| singleton twin(s) multiple |
