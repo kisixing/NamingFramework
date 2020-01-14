@@ -16,7 +16,8 @@
 |医嘱|doctor's advice|胎儿|fetus
 |处理|treatment|体温|temperature
 |存活| Living |产前保健| Prenatal care |
-|预产期| EDD(estimated date of deliving) |产房| labour |
+|预产期| EDD(expected date of delivery) |产房| labour |
+|预产期-末次月经|EDD-LMP（expected date of delivery - last menstrual period）|预产期-超声孕龄|EDD-AUA（expected date of delivery - average ultronsonic age）|
 |血压| BP（blood pressvire）|宫高| Fundal height |
 |腹围| Waist hip |胎心| Fetal heart |
 |胎心率| Fetal heart rate （fhr）
