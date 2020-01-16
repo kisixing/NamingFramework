@@ -48,7 +48,7 @@
 |经产| Multiparity |单双胎| singleton twin(s) multiple |
 |病史| Medical history |现病史| HPI（history of present illness）|
 |既往史| Past medical history |家族史| family history |
-|月经史| Menstrual history |生孕史（孕产史）| Pregnancy History |
+|月经史| Menstrual history |生育史（孕产史）| Pregnancy History |
 |产后出血| Postpartum hemorrhage |子痫| Eclampsia |
 |羊水过多| Poly hydramnion |羊水过少| Oligohydramnios |
 |死产| Stillbirth |死胎| Fetus death |
