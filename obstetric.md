@@ -53,8 +53,8 @@
 |羊水过多| Poly hydramnion |羊水过少| Oligohydramnios |
 |死产| Stillbirth |死胎| Fetus death |
 |新生儿窒息| Neonatal asphyxia|胎盘早剥| Plental abruption |
-|胎儿心跳FHB(Fetal heartbeat)|头臀径CRL(crown-rump length)
-|颈项透明层NT(Nuchal translucency)|枕额径|OFD(occipito-frontal diameter)
+|胎儿心跳|FHB(Fetal heartbeat)|头臀径|CRL(crown-rump length)
+|颈项透明层|NT(Nuchal translucency)|枕额径|OFD(occipito-frontal diameter)
 |头围|HC(head circum ference)|后颅窝|fossa cranii posterior
 |小脑横径|TCD(Transverse Cerebellar Diameter)|股骨|FL(femur)
 |腹横径|TAD(Transverse Abdominal Diameter)|腹前后径|APAD(Ventral anteroposterior diameter)
