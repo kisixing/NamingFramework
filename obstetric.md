@@ -1,21 +1,24 @@
 |中文名称|术语  |中文名称  |术语  |
 | --- | --- | --- | --- |
-|产前保健| Prenatal care |
+|产前保健| Prenatal care | 产前诊断 | prenatal diagnosis  |
 |首诊| First prenatal cheek-up |复诊| Routine examintain |
 |孕周| gestational week |产前| antepartum |
 |产时| intrapartum |产后| postpartum |
 |末次月经|LMP(last menstrual pernd|预产期| EDD(expected date of delivery)  |
 |预产期-末次月经|EDD-LMP(expected date of delivery - last menstrual period)|预产期-超声孕龄|EDD-AUA(expected date of delivery - average ultronsonic age)|
+|超声孕龄（如孕__周）| AUA（average ultronsonic age） |
 |产次| Parity |孕次| gravidity |
 |高危妊娠| High-risk pregnancy |妊娠高危| pregnancy highrisk|
 |妊娠糖尿病 |GDM | 糖尿病 |Diabetes_mellitus  |
 |高血压| hypertension|心脏病| heart disease |
-|外伤|injury|先天畸形|congenital malformation |
+|外伤|trauma|先天畸形|congenital malformation |
 |遗传病|heritable disease|地中海贫血|thalassemia |
 |过敏|allergy|输血|blood transfusion |
 |多胎| Multiple gestation |足月产≥37| Term |
 |早产28-37| Preterm |流产| Abortion 
-|宫外孕|exfetation|手术|operation
+|宫外孕|exfetation|手术|operation |
+|受孕方式 | insemination method  |
+|体外受精 | IVF（in vitro fertilization）  |自然受孕 | natural insemination  | 
 |子宫|uterus|宫缩|contractions
 |子宫容积|total intrauterine volume|子宫腔长度|uterine cavity length
 |子宫内膜|endometrium|内膜厚度|intimal thickness
@@ -31,7 +34,9 @@
 |医嘱|doctor's advice|胎儿|fetus
 |处理|treatment|体温|temperature
 |存活| Living |产房| labour
-|体格检查|physical check-up|宫缩压力|TOCO
+|体格检查|physical check-up |乳房| breast |
+|阴道|vagina |宫颈|cervix
+|宫缩压力|TOCO
 |血压| BP(blood pressvire)|宫高| Fundal height |
 |腹围|AC(abdominal circumference)|胎心| Fetal heart |
 |胎心率|FHR(fetal heart rate)|胎动|FM(fetal movement)
@@ -48,8 +53,15 @@
 |经产| Multiparity |单双胎| singleton twin(s) multiple |
 |病史| Medical history |现病史| HPI（history of present illness）|
 |既往史| Past medical history |家族史| family history |
+|外伤史| trauma history |手术史| operation history |
 |月经史| Menstrual history |生育史（孕产史）| Pregnancy History |
-|产后出血| Postpartum hemorrhage |子痫| Eclampsia |
+|婚姻史|marital history |近亲结婚|consanguineous marriage
+|月经初潮|menarche |月经周期| menstrual cycle
+|自然流产|SAB（spontaneous abortion）|人工流产|artificial abortion
+|引产|artificial labor |顺产|normal labor
+|产后出血| Postpartum hemorrhage |产褥热| childbed fever|
+|并发症|complication |后遗症|sequel
+|子痫| Eclampsia |
 |羊水过多| Poly hydramnion |羊水过少| Oligohydramnios |
 |死产| Stillbirth |死胎| Fetus death |
 |新生儿窒息| Neonatal asphyxia|胎盘早剥| Plental abruption |
